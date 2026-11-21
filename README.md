@@ -1,8 +1,14 @@
 # Galeri Senja — a stealth game
 
+[![make.fun · best-stealth-game-20261121-1759](https://make.fun/badge/best-stealth-game-20261121-1759.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![rank](https://make.fun/badge/best-stealth-game-20261121-1759/supremexcell/best-stealth-game-01/rank.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+[![reward](https://make.fun/badge/best-stealth-game-20261121-1759/supremexcell/best-stealth-game-01/reward.svg)](https://make.fun/bounty/best-stealth-game-20261121-1759?utm_source=github&utm_medium=readme&utm_campaign=best-stealth-game-20261121-1759)
+
 ![make.fun](https://img.shields.io/badge/make.fun-best--stealth--game-gold)
 ![offline](https://img.shields.io/badge/offline-static%20files-green)
 ![license](https://img.shields.io/badge/license-MIT-blue)
+
+Built for the [make.fun "Make the best stealth game" bounty](https://make.fun/bounty/best-stealth-game-20261121-1759) — $50 in USDC. Play it with Vicko's referral code `bj2pae9c` at [make.fun](https://make.fun).
 
 Wulan, a museum intern, is locked in after closing. In each of three
 galleries she must collect **3 Starlight Relics** and reach the **exit** —
